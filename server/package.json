@@ -1,0 +1,23 @@
+{
+  "name": "get-some-dim-sum",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "repository": "https://github.com/madinthebull/get-some-dim-sum.git",
+  "author": "Madeline Streilein <mcstreilein@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-http": "^4.3.0",
+    "csv-parser": "^3.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "mocha": "^8.0.1",
+    "mocha-sinon": "^2.1.2",
+    "nodemon": "^2.0.4",
+    "sequelize": "^5.21.12",
+    "sequelize-cli": "^5.5.1",
+    "sinon": "^9.2.3",
+    "sqlite3": "^4.2.0"
+  }
+}

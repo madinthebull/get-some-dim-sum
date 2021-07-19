@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "item": "Steamed Pork Buns",
+    "category": "steamed",
+    "amountPerOrder": 2,
+    "vegFriendly": false,
+    "pescFriendly": true,
+    "shellfishFree": true,
+    "porkFree": false,
+    "price": 3.5,
+    "madelineChoice": true
+  },
+  {
+    "id": 2,
+    "item": "Roast Pork Buns",
+    "category": "steamed",
+    "amountPerOrder": 2,
+    "vegFriendly": false,
+    "pescFriendly": true,
+    "shellfishFree": true,
+    "porkFree": false,
+    "price": 3.5,
+    "madelineChoice": false
+  },
+  {
+    "id": 3,
+    "item": "Taro Crescents",
+    "category": "fried",
+    "amountPerOrder": 2,
+    "vegFriendly": false,
+    "pescFriendly": false,
+    "shellfishFree": true,
+    "porkFree": false,
+    "price": 3.5,
+    "madelineChoice": true
+  },
+  {
+    "id": 4,
+    "item": "Chinese Broccoli with Oyster Sauce",
+    "category": "vegetable",
+    "note": "Oyster sauce comes on the side",
+    "amountPerOrder": 3,
+    "vegFriendly": true,
+    "pescFriendly": true,
+    "shellfishFree": true,
+    "porkFree": true,
+    "price": 6.25,
+    "madelineChoice": true
+  }
+]
+
